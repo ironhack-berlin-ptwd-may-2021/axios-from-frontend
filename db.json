@@ -1,0 +1,32 @@
+{
+  "characters": [
+    {
+      "name": "Peter Pan",
+      "occupation": "Fairy",
+      "debt": true,
+      "weapon": "magic wand",
+      "id": 1
+    },
+    {
+      "name": "Chewbacca",
+      "occupation": "grrrrr",
+      "debt": true,
+      "weapon": "crossbow",
+      "id": 2
+    },
+    {
+      "name": "Broccoli",
+      "occupation": "Vegetable",
+      "debt": true,
+      "weapon": "Vitamin C",
+      "id": 3
+    },
+    {
+      "name": "Luke",
+      "occupation": "Jedi",
+      "debt": false,
+      "weapon": "Lightsaber",
+      "id": 4
+    }
+  ]
+}
