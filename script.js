@@ -14,7 +14,7 @@ document.querySelector('#refreshbutton').onclick = () => {
       respArr.forEach(character => {
 
         document.querySelector('#characters-list').innerHTML += `<li class="list-group-item">
-          ID: ${character.id} - ${character.name}          
+          ID: ${character.identifier} - ${character.fullName} - ${character.occupation}          
       </li>`
 
       });
